@@ -52,7 +52,7 @@ const account3 = {
     owner: 'Derrick Murimi',
     movements: [555000, 3400, -150, -990, -3210, -100000, 8500, -30],
     interestRate: 1.5,
-    pin: 2222,
+    pin: 3333,
 
     movementsDates: [
         '2019-11-01T13:15:33.035Z',
@@ -68,7 +68,7 @@ const account3 = {
     locale: 'en-US',
 };
 
-const accounts = [account1, account2];
+const accounts = [account1, account2, account3];
 
 /////////////////////////////////////////////////
 // Elements
